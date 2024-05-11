@@ -15,5 +15,7 @@
 *   [Code file](https://github.com/t-anikaa/Session_13_Assignment/blob/main/Q%26A%5B2%5D.js)
 ![13 2](https://github.com/t-anikaa/Session_13_Assignment/assets/161161157/f2d90616-3d5f-4c07-88d8-91af0bfba5d2)
 
-**Q[3]:** Watch this tutorial, and make a map of your district by using QGIS. Upload the map in your github repo, share your map in Geospatial Programming Learners fb group. Give hashtags: #assignment13,  #QGISMapping, #geospatialProgramming in your post. Submit the link of your Facebook post. 
+**Q[3]:** Watch this tutorial, and make a map of your district by using QGIS. Upload the map in your github repo, share your map in Geospatial Programming Learners fb group. Give hashtags: #assignment13,  #QGISMapping, #geospatialProgramming in your post. Submit the link of your Facebook post.
+
 **Ans:**
+![CTG](https://github.com/t-anikaa/Session_13_Assignment/assets/161161157/c7831aa9-4704-4756-92d5-bff9b8425a02)
